@@ -27,8 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-1. [Desktop](https://github.com/KeshavGulati/Preview-Card/blob/master/3-column-preview-card-component-main/Desktop-ss.png)
-2. [Mobile](https://github.com/KeshavGulati/Preview-Card/blob/master/3-column-preview-card-component-main/Mobile-ss.png)
+1. 
+  ![Desktop](https://keshavgulati.github.io/Preview-Card/3-column-preview-card-component-main/Desktop-ss.png)
+
+2.
+ ![Mobile](https://keshavgulati.github.io/Preview-Card/3-column-preview-card-component-main/Mobile-ss.png)
 
 
 ### Links
