@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/KeshavGulati/Preview-Card/Solution/index.html](https://github.com/KeshavGulati/Preview-Card/Solution/index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://keshavgulati.github.io/Preview-Card/](https://keshavgulati.github.io/Preview-Card/)
 
 ## My process
 
